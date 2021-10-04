@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leon.langhoff@posteo.de
+	name = Leon Langhoff
